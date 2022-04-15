@@ -165,7 +165,7 @@ l. I created a php script that will connect to mysql
 
 m. I accessed the page in my web browser
    `http://<3.236.166.163>/todo_list.php`
-   ![web browser](\images\browser3.PNG)
+   ![web browser](images/browser3.PNG)
 
 
 
